@@ -27,3 +27,7 @@ span.vm-menu > ul > li > a {
 span.vm-menu > ul > li > a:hover {
   background: #4f9dfb;
 }
+
+span.vm-menu.vm-h {
+  display: none;
+}
